@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90cecaf5-2e0e-4d1f-87cb-38c7e7dad67d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/Practice/ArmstrongNum.py" afterDir="false" />
+    <list default="true" id="90cecaf5-2e0e-4d1f-87cb-38c7e7dad67d" name="Changes" comment="aaa">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Scripts/Practice/ArmstrongNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/Practice/ArmstrongNum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,60 +53,65 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.AB pyramid.executor": "Run",
-    "Python.Arg1.executor": "Run",
-    "Python.ArmstrongNum.executor": "Run",
-    "Python.Array.executor": "Run",
-    "Python.Day3.executor": "Run",
-    "Python.Day5.executor": "Run",
-    "Python.EvenOdd.executor": "Run",
-    "Python.Majority_element.executor": "Run",
-    "Python.Method.executor": "Run",
-    "Python.Practice1.executor": "Run",
-    "Python.PrimeNum (1).executor": "Run",
-    "Python.ReverseN.executor": "Run",
-    "Python.ReverseStr.executor": "Run",
-    "Python.StrPalindrom.executor": "Run",
-    "Python.Tri_pyramid.executor": "Run",
-    "Python.While.executor": "Run",
-    "Python.commonelm.executor": "Run",
-    "Python.demo.executor": "Run",
-    "Python.fabon.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.fin_min_max.executor": "Run",
-    "Python.findList.executor": "Run",
-    "Python.find_missing_num.executor": "Run",
-    "Python.for.executor": "Debug",
-    "Python.init.executor": "Debug",
-    "Python.kth_elment (1).executor": "Run",
-    "Python.mergeAltStr.executor": "Run",
-    "Python.new_pattern.executor": "Run",
-    "Python.pattern.executor": "Run",
-    "Python.pattern_serise.executor": "Run",
-    "Python.peek_ele.executor": "Run",
-    "Python.pettern2.executor": "Run",
-    "Python.practise_d3.executor": "Run",
-    "Python.prime.executor": "Run",
-    "Python.revers_arr.executor": "Run",
-    "Python.secondlargest.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/LENOVO/Saved Games/Desktop/Pythoncodes",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.AB pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arg1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ArmstrongNum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GDC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HouseGlass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Majority_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Octal2dec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeNum (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseStr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StrPalindrom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tri_pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.commonelm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fabon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fin_min_max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_missing_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.init.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.kth_elment (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.mergeAltStr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern_serise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.peek_ele.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pettern2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practise_d3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revers_arr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.secondlargest.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Saved Games/Desktop/Pythoncodes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\PycharmProjects\PythonCode\.venv\Scripts" />
       <recent name="C:\Users\LENOVO\PycharmProjects\PythonCode\.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ArmstrongNum">
-    <configuration name="ArmstrongNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pattern">
+    <configuration name="GDC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Scripts/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Scripts/Practice/ArmstrongNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/GDC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HouseGlass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Scripts/Method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/HouseGlass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PrimeNum (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Octal2dec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Scripts/PrimeNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Octal2dec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PrimeNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\LENOVO\PycharmProjects\PythonCode\.venv\Scripts\PrimeNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Prime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern_serise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Scripts/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Scripts/Practice/pattern_serise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ArmstrongNum" />
-        <item itemvalue="Python.pattern_serise" />
-        <item itemvalue="Python.PrimeNum (1)" />
-        <item itemvalue="Python.PrimeNum" />
-        <item itemvalue="Python.Method" />
+        <item itemvalue="Python.pattern" />
+        <item itemvalue="Python.HouseGlass" />
+        <item itemvalue="Python.Octal2dec" />
+        <item itemvalue="Python.GDC" />
+        <item itemvalue="Python.Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -247,18 +247,63 @@
       <option name="presentableId" value="Default" />
       <updated>1720287508209</updated>
     </task>
+    <task id="LOCAL-00001" summary="aaa">
+      <option name="closed" value="true" />
+      <created>1722712166989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722712166989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
+    <option name="RECENT_FILTERS">
       <map>
-        <entry key="MAIN">
+        <entry key="Branch">
           <value>
-            <State />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

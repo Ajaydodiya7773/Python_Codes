@@ -1,13 +1,11 @@
-number=1632
-num=number
-digit,sum=0,0
-length=len(str(num))
-for i in range(length):
-    digit=int(num%10)
-    num=num/10
-    sum+=pow(digit,length)
-if sum==number:
-    print("Armstrong")
+def Arms_num(num):
+    #convert  string into number
+    num_str=str(num)
+    num_digit=len(num_str)
+    sum_of_power=sum(int(digit)**num_digit for digit in num_str)
+    return sum_of_power==num
+num=int(input("Enter Number"))
+if Arms_num(num):
+    print("ARMStrong Number")
 else:
-    print("not Armstrong")
-
+    print("Not A Armstrong Number")
